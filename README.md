@@ -10,7 +10,7 @@ I'm a freelance developer passionate about building modern web applications.
 
 ### Frontend
 <p align="left">
-  <img src="https://img.shields.io/badge/Nuxt.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Nuxt.js" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
