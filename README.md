@@ -3,7 +3,7 @@
 
 I'm a freelance developer passionate about building modern web applications.
 
-**💼 For freelance work?** Reach me out via email: [your-email@example.com](mailto:ejfron.dev@gmail.com)
+**💼 For freelance work?** Reach me out via email: [ejfron.dev@gmail.com](mailto:ejfron.dev@gmail.com)
 
 ---
 
