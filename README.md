@@ -26,6 +26,4 @@ I'm a freelance developer passionate about building modern web applications.
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🚀_Ready_to_build_something_awesome?-black?style=for-the-badge&color=blueviolet" alt="Ready to build something awesome?" />
-</p>
+>
